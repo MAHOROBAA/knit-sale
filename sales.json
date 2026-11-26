@@ -6,17 +6,19 @@
       "name": "바늘이야기",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 라나가또 대표 원사 4종 30% 할인 / # 라나가또(LANA GATTO) 대표 원사 4종 30% 할인!! / 아마노 할인 이벤트 / 금사 섞인 쿠튀르실 스푸르스 색상을 눈여겨 보고 있었는데 단종예정 세일 떠서 냉큼 구매했어요. 싸게 구매 잘 했어요. 리뉴얼 대신 단종 된다니 아쉽습니다. 청록색? 하여튼, 오묘한 아무도 흉내 못낼 색상의 실이라 좋아요.",
-      "url": "https://banul.co.kr/",
+      "url": "https://www.banul.co.kr/",
       "checked_at": "2026-11-26T14:57:36.303106+09:00",
-      "collection_status": "candidate"
+      "collection_status": "candidate",
+      "site_verified_at": "2026-11-26"
     },
     {
       "name": "앵콜스",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 마이쿠폰 / 추가 할인",
-      "url": "https://ancalls.com/",
+      "url": "https://www.ancalls.com/",
       "checked_at": "2026-11-26T14:57:36.303106+09:00",
-      "collection_status": "candidate"
+      "collection_status": "candidate",
+      "site_verified_at": "2026-11-26"
     },
     {
       "name": "쎄비(SEVY)",
@@ -24,15 +26,18 @@
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 쿠폰",
       "url": "https://www.sevy.co.kr/",
       "checked_at": "2026-11-26T14:57:36.303106+09:00",
-      "collection_status": "candidate"
+      "collection_status": "candidate",
+      "site_verified_at": "2026-11-26"
     },
     {
       "name": "리네아",
-      "status": "unknown",
-      "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 할인마켓 / 타임 세일 / [신상 10% 할인 26.11.25부터-12.01까지] 더 캐시 울 / 할인판매가",
+      "status": "sale",
+      "description": "더 캐시 울 신상 10% 할인 · 12/1까지",
       "url": "https://www.linea.kr/",
       "checked_at": "2026-11-26T14:57:36.303106+09:00",
-      "collection_status": "candidate"
+      "collection_status": "candidate",
+      "site_verified_at": "2026-11-26",
+      "end": "2026-12-01T23:59:59+09:00"
     },
     {
       "name": "뜨개머리앤",
@@ -40,35 +45,26 @@
       "description": "홈페이지에서 행사 문구를 찾지 못함 · 할인 여부 미확인",
       "url": "https://www.annknitting.com/",
       "checked_at": "2026-11-26T14:57:36.303106+09:00",
-      "collection_status": "no_evidence"
+      "collection_status": "no_evidence",
+      "site_verified_at": "2026-11-26"
     },
     {
       "name": "니트카페",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 마이쿠폰 / ON SALE / 블프데이 이벤트 안내 / Cardiff Cashmere Classic 카디프 캐시미어 100% 클래식_세일 제외 품목",
-      "url": "https://www.knitcafe.co.kr/",
+      "url": "https://knitcafe.co.kr/",
       "checked_at": "2026-11-26T14:57:36.303106+09:00",
-      "collection_status": "candidate"
+      "collection_status": "candidate",
+      "site_verified_at": "2026-11-26"
     },
     {
       "name": "야나(YARN-A)",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 블랙 프라이데이 혜택 / # 블랙 프라이데이 / TIME SALE / 뜨개실, DIY패키지 특가세일!",
-      "url": "https://yarn-a.com/",
+      "url": "https://www.yarn-a.com/",
       "checked_at": "2026-11-26T14:57:36.303106+09:00",
-      "collection_status": "candidate"
-    },
-    {
-      "name": "니팅포올",
-      "status": "unknown",
-      "description": "공식 주소 미등록 · 수집 대기",
-      "checked_at": "2026-11-26T14:57:36.303106+09:00"
-    },
-    {
-      "name": "라라뜨개",
-      "status": "unknown",
-      "description": "공식 주소 미등록 · 수집 대기",
-      "checked_at": "2026-11-26T14:57:36.303106+09:00"
+      "collection_status": "candidate",
+      "site_verified_at": "2026-11-26"
     },
     {
       "name": "청송뜨개실",
@@ -76,13 +72,8 @@
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 마이쿠폰 / ❗❗ 할인쿠폰적용방법 / 초특가 세일실 / 타임세일",
       "url": "https://www.tgesil.com/",
       "checked_at": "2026-11-26T14:57:36.303106+09:00",
-      "collection_status": "candidate"
-    },
-    {
-      "name": "스튜디오실실",
-      "status": "unknown",
-      "description": "공식 주소 미등록 · 수집 대기",
-      "checked_at": "2026-11-26T14:57:36.303106+09:00"
+      "collection_status": "candidate",
+      "site_verified_at": "2026-11-26"
     }
   ]
 }
