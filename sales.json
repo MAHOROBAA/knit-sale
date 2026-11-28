@@ -1,78 +1,89 @@
 {
-  "updated": "2026-11-27 12:41 KST",
+  "updated": "2026-11-28 13:34 KST",
   "source": "공식 홈페이지 자동 탐색 · 행사 후보는 미확정",
   "shops": [
     {
       "name": "바늘이야기",
       "status": "unknown",
-      "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 라나가또 대표 원사 4종 30% 할인 / # 라나가또(LANA GATTO) 대표 원사 4종 30% 할인!! / 아마노 할인 이벤트 / 정말 부드러워요 예전 세일 때부터 사고 싶었는데 드디어 만져보네요 항상 하는 후회지만 더 살 걸…",
+      "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 라나가또 대표 원사 4종 30% 할인 / # 라나가또(LANA GATTO) 대표 원사 4종 30% 할인!! / 아마노 할인 이벤트 / 오프라인 매장 도장 쿠폰제 변경 안내",
       "url": "https://www.banul.co.kr/",
-      "checked_at": "2026-11-27T12:41:10.571686+09:00",
+      "checked_at": "2026-11-28T13:34:14.341176+09:00",
       "collection_status": "candidate",
-      "site_verified_at": "2026-11-26"
+      "site_verified_at": "2026-11-26",
+      "last_success_at": "2026-11-28T13:34:14.341176+09:00"
     },
     {
       "name": "앵콜스",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 마이쿠폰 / 추가 할인",
       "url": "https://www.ancalls.com/",
-      "checked_at": "2026-11-27T12:41:10.571686+09:00",
+      "checked_at": "2026-11-28T13:34:14.341176+09:00",
       "collection_status": "candidate",
-      "site_verified_at": "2026-11-26"
+      "site_verified_at": "2026-11-26",
+      "last_success_at": "2026-11-28T13:34:14.341176+09:00"
     },
     {
       "name": "쎄비(SEVY)",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 쿠폰 / 할인판매가 / 할인 기간 / 할인기간",
       "url": "https://www.sevy.co.kr/",
-      "checked_at": "2026-11-27T12:41:10.571686+09:00",
+      "checked_at": "2026-11-28T13:34:14.341176+09:00",
       "collection_status": "candidate",
-      "site_verified_at": "2026-11-26"
+      "site_verified_at": "2026-11-26",
+      "last_success_at": "2026-11-28T13:34:14.341176+09:00"
     },
     {
       "name": "리네아",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 할인마켓 / 타임 세일 / [신상 10% 할인 26.11.25부터-12.01까지] 더 캐시 울 / 할인판매가",
       "url": "https://www.linea.kr/",
-      "checked_at": "2026-11-27T12:41:10.571686+09:00",
+      "checked_at": "2026-11-28T13:34:14.341176+09:00",
       "collection_status": "candidate",
-      "site_verified_at": "2026-11-26"
+      "site_verified_at": "2026-11-26",
+      "last_success_at": "2026-11-28T13:34:14.341176+09:00"
     },
     {
       "name": "뜨개머리앤",
       "status": "unknown",
-      "description": "수집 실패 · 공식 사이트 직접 확인 필요",
+      "description": "홈페이지에서 행사 문구를 찾지 못함 · 할인 여부 미확인",
       "url": "https://www.annknitting.com/",
-      "checked_at": "2026-11-27T12:41:10.571686+09:00",
-      "collection_status": "error",
-      "site_verified_at": "2026-11-26"
+      "checked_at": "2026-11-28T13:34:14.341176+09:00",
+      "collection_status": "no_evidence",
+      "site_verified_at": "2026-11-26",
+      "last_success_at": "2026-11-28T13:34:14.341176+09:00"
     },
     {
       "name": "니트카페",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 마이쿠폰 / ON SALE / 블프데이 이벤트 안내 / Cardiff Cashmere Classic 카디프 캐시미어 100% 클래식_세일 제외 품목",
       "url": "https://knitcafe.co.kr/",
-      "checked_at": "2026-11-27T12:41:10.571686+09:00",
+      "checked_at": "2026-11-28T13:34:14.341176+09:00",
       "collection_status": "candidate",
-      "site_verified_at": "2026-11-26"
+      "site_verified_at": "2026-11-26",
+      "last_success_at": "2026-11-28T13:34:14.341176+09:00"
     },
     {
       "name": "야나(YARN-A)",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 블랙 프라이데이 혜택 / # 블랙 프라이데이 / TIME SALE / 뜨개실, DIY패키지 특가세일!",
       "url": "https://www.yarn-a.com/",
-      "checked_at": "2026-11-27T12:41:10.571686+09:00",
+      "checked_at": "2026-11-28T13:34:14.341176+09:00",
       "collection_status": "candidate",
-      "site_verified_at": "2026-11-26"
+      "site_verified_at": "2026-11-26",
+      "last_success_at": "2026-11-28T13:34:14.341176+09:00"
     },
     {
       "name": "청송뜨개실",
       "status": "unknown",
       "description": "행사 후보 · 기간 및 적용 조건 확인 필요: 마이쿠폰 / ❗❗ 할인쿠폰적용방법 / 초특가 세일실 / 타임세일",
       "url": "https://www.tgesil.com/",
-      "checked_at": "2026-11-27T12:41:10.571686+09:00",
+      "checked_at": "2026-11-28T13:34:14.341176+09:00",
       "collection_status": "candidate",
-      "site_verified_at": "2026-11-26"
+      "site_verified_at": "2026-11-26",
+      "last_success_at": "2026-11-28T13:34:14.341176+09:00"
     }
-  ]
+  ],
+  "last_attempt_at": "2026-11-28T13:34:14.341176+09:00",
+  "collection_status": "success",
+  "last_success_at": "2026-11-28T13:34:14.341176+09:00"
 }
